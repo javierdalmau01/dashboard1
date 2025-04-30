@@ -1,1 +1,1 @@
-// Aquí va tu código de Dashboard.tsx desde el canvas (pégalo después de descomprimir)
+// Copia aquí el contenido del Dashboard desde el canvas
